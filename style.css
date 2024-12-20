@@ -1,0 +1,26 @@
+img{
+    border-radius: 50%
+
+}
+h1{
+    background-color: black;
+}
+h3{
+    background-color: bisque;
+    font-size: medium;
+}
+img{
+    float: right;
+}
+.top{
+    background-color: aqua;
+}
+a{
+    align-content: center;
+}
+h2{
+    color: rgb(92, 49, 133);
+}
+h3{
+    color: brown;
+}
